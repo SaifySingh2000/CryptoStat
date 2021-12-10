@@ -1,4 +1,7 @@
 <?php
+/*
+Saify
+*/
     // Define the MySQL database connection to the database server with database credentials.
     define('DB_DSN', 'mysql:host=localhost;dbname=cryptocurrency');
     define('DB_USER', 'root');
